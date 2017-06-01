@@ -1,0 +1,12 @@
+OpenStreetMap url for the area that needs exporting. Make this as small as possible to reduce processing time.
+https://www.openstreetmap.org/#map=15/-27.4762/153.0188
+
+Versioned polygon file containing bounding boxes
+
+Versioned config.xml that w2xp uses
+
+Versioned batch file used to create the custom scenery
+
+=========================================================
+
+Links to useful webpages/tools/resources
