@@ -1,0 +1,16 @@
+OpenStreetMap url for the area that needs exporting.  If this geographic space is too small then it can be enlarged but make this as small as possible to reduce processing time.
+https://www.openstreetmap.org/#map=15/-27.4762/153.0188
+
+Using the above URL, export an osm file into the project folder (this folder). Call that osm file "input.osm".
+
+There should be a poly file (with version number) specifying the city boundary to be imported into XPlane11. This boundary can be enlargened, or a second and seperate boundary can be specified.
+
+The latest versioned poly file should be COPIED and renamed to "boundary.poly". This is the name the batch file is expecting.
+
+There may be a config.xml file (with version). This is a file to use with w2xp. It is optional but it is designed to give the best visual results.
+
+There should be a windows batch file (with version) that expects an "input.osm" and "boundary.poly" file.
+
+=========================================================
+
+Links to useful webpages/tools/resources
