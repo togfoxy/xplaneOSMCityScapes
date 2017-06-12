@@ -14,3 +14,5 @@ There should be a windows batch file (with version) that expects an "input.osm" 
 =========================================================
 
 Links to useful webpages/tools/resources
+
+http://www.findlatitudeandlongitude.com/click-lat-lng-list/#.WT6YM8b-sdU
